@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/*////////////////////////////////////////////////////////////////////////
+Table of Contents:
+    1. Global Styles
+    2. Typografie
+    3. Areas
+        3.1 Header
+        3.2 Testimonial
+        3.3 Support
+        3.4 Faq
+        3.5 Footer
+////////////////////////////////////////////////////////////////////////*/
+
+
+/*////////////////////////
+    1. Global Styles
+////////////////////////*/
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+/*////////////////////////
+    2. Typography
+////////////////////////*/
+
+
+
+/*////////////////////////
+    3. Areas
+////////////////////////*/
+
+
+
+/*///////////// 3.1 Header /////////////*/
+
+header {
+  margin: auto;
+  width: 100%;
+  height: 600px;
+  
+  background-image: url("../assets/images/mountains.jpg");
+  background-position: 0;
+  background-size: auto;
+}
+
+.header {
+  width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: #1C2B32;
+}
+
+.header form {
+  display: inline;
+  padding: 16px 0;
+  margin: 0;
+  border: 2px solid #1C2B32;
+  border-radius: 25px;
+}
+
+.header input {
+  font-size: 12px;
+  width: 250px;
+  /* margin: -1px; */
+  padding: 15px 0;
+  border: none; 
+  background-color: transparent;
+  text-align: center;
+}
+
+.header button {
+  font-size: 12px;
+  color: white;
+  width: 166px;
+  padding: 18px 0;
+  margin: 0;
+  border: 2px solid #1C2B32;
+  border-left: none;
+  border-radius: 0px 25px 25px 0px;
+  background-color: #1C2B32;
+  text-align: center;
+}
+
+/*///////////// 3.2 Testimonial /////////////*/
+
+
+
+/*///////////// 3.3 Support /////////////*/
+
+
+
+/*///////////// 3.4 Faq /////////////*/
+
+
+
+/*///////////// 3.5 Footer /////////////*/
